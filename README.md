@@ -9,7 +9,7 @@
 
 코드를 직접 빌드하지 않고 게임을 바로 실행해 보시려면 아래 링크에서 실행 파일을 다운로드할 수 있습니다.
 
-* **[📥 최신 실행 파일(.exe) 다운로드]**(https://github.com/parksarang04/TETRAY-main/releases)
+* **[📥 최신 실행 파일(.exe) 다운로드]**([https://github.com/parksarang04/TETRAY-main/releases](https://github.com/parksarang04/Graduation-Project_TETRAY/releases/tag/v1.0.0))
   * *주주의: Windows 환경에서 실행 가능하며, 사운드 드라이버 안전장치가 적용되어 있습니다.*
 
 ---
